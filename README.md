@@ -1,2 +1,2 @@
 # java-class-example
-##JAVA
+##JAVA A
